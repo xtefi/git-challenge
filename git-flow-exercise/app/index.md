@@ -6,7 +6,9 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ## Picks of the Month
 
-[Quick Oatmeal Pancakes](recipe/feb/cuba-pudding-jr.md) | cubapud@flavor.magazine
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
+
+[Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
 
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
 
