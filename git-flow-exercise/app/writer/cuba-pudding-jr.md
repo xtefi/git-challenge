@@ -5,3 +5,5 @@
 Recipe Picks:
 
 - February: [Quick Oatmeal Pancakes](../recipe/feb/cuba-pudding-jr.md)
+- February: [Baked sweet potatoes](../recipe/feb/baked-sweet-potatoes.md)
+
