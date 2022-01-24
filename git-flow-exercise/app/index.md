@@ -7,6 +7,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ## Picks of the Month
 
 [Quick Oatmeal Pancakes](recipe/feb/cuba-pudding-jr.md) | cubapud@flavor.magazine
+[Baked Sweet Potatoes](recipe/feb/baked-sweet-potatoes.md)
 
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
 
