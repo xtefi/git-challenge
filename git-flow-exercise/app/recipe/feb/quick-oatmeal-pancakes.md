@@ -31,6 +31,3 @@ Mix flour, brown sugar, baking powder, salt, and cinnamon together in a bowl. Wh
 Step 3
 
 Heat 2 teaspoons butter on a griddle or skillet over medium heat; pour about 1/3 cup batter into the hot butter. Cook pancakes until bubbles appear on top layer, about 5 minutes. Flip and cook other side until evenly browned, about 5 more minutes.
-
-Nutrition Facts
-Per Serving: 354 calories; protein 12.9g; carbohydrates 48.2g; fat 12.2g; cholesterol 146.5mg; sodium 762.4mg. Full Nutrition
