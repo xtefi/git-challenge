@@ -4,4 +4,10 @@
 
 Recipe Picks:
 
+<<<<<<< HEAD
+- February: [Quick Oatmeal Pancakes](../recipe/feb/cuba-pudding-jr.md)
+- February: [Baked sweet potatoes](../recipe/feb/baked-sweet-potatoes.md)
+
+=======
 - January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
+>>>>>>> hotfix-1.0.1
